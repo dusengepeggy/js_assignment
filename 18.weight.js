@@ -15,3 +15,4 @@ function weighting(w,h ){
 
 
 }
+weighting(80,1.6);
