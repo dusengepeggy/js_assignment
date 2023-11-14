@@ -1,5 +1,5 @@
 function weighting(w,h ){
-    var bmi=w/(h^2);
+    var bmi=w/(h*h);
     if (bmi<18.5){
         console.log("Underweight");
     }
@@ -15,4 +15,4 @@ function weighting(w,h ){
 
 
 }
-weighting(80,1.6);
+weighting(54,1.6);
