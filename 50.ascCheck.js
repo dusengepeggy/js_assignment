@@ -21,4 +21,4 @@ function ascSortCheck(arr) {
 
     
 }
-console.log(ascSortCheck([1,3,54,5,6,66,400]));
+console.log(ascSortCheck([1,3,50,5,6,66,400]));
